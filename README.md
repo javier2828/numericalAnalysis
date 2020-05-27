@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Numerical Analysis Algorithms
 
-You can use the [editor on GitHub](https://github.com/javier2828/numericalAnalysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Euler ODE Forward & Backward Algorithm
+[Code](https://github.com/javier2828/numericalAnalysis/blob/master/HW2/section11_problem5.m)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Taylor Approximation of Functions
+[Code](https://github.com/javier2828/numericalAnalysis/blob/master/HW3/set5_ex3.m)
 
-### Markdown
+### Naive Gaussian Elimination (Matrix Solver)
+[Code](https://github.com/javier2828/numericalAnalysis/blob/master/HW4/exercise21_problem3.m)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Bidiagonal Linear System (Specific Matrix Solver for Special Matrices)
+[Code](https://github.com/javier2828/numericalAnalysis/blob/master/HW5/CE23_prob16.m)
 
-```markdown
-Syntax highlighted code block
+### Iterative Matrix Solvers (Gauss-Seidel, Jacobi, SOR Gauss-Seidel)
+[Gauss-Seidel](https://github.com/javier2828/numericalAnalysis/blob/master/HW6/sec84_problem3_gs.m)
 
-# Header 1
-## Header 2
-### Header 3
+[Jacobi](https://github.com/javier2828/numericalAnalysis/blob/master/HW6/sec84_problem3_jacobi.m)
 
-- Bulleted
-- List
+[SOR](https://github.com/javier2828/numericalAnalysis/blob/master/HW6/sec84_problem4_SOR.m)
 
-1. Numbered
-2. List
+### Root Finders (Newton, Bisection, Secant)
+[Bisection](https://github.com/javier2828/numericalAnalysis/blob/master/HW7/section31_problem18.m)
 
-**Bold** and _Italic_ and `Code` text
+[Newton & Secant](https://github.com/javier2828/numericalAnalysis/blob/master/HW7/section33_problem6a.m)
 
-[Link](url) and ![Image](src)
-```
+### Uniform & Chevyshev Interpolation Techniques
+[Code](https://github.com/javier2828/numericalAnalysis/blob/master/HW8/code.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Trapezoidal Integration Algorithm
+[Code](https://github.com/javier2828/numericalAnalysis/blob/master/HW9/section51_problem7.m)
 
-### Jekyll Themes
+### Simpson's Method for Numerical Integration
+[Code](https://github.com/javier2828/numericalAnalysis/blob/master/project/simpsonsmethod.m)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/javier2828/numericalAnalysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Monte Carlo Importance Sampling Method for Numerical Integration
+[Code](https://github.com/javier2828/numericalAnalysis/blob/master/project/project_montecarlo.m)
